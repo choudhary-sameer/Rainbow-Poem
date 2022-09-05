@@ -4,8 +4,9 @@ Purple
 Green
 Orange
 Blue
+Yellow
 Red
 Magenta
 Pink
 
-These are the colours of the rainbow.
+These are the colors of the rainbow.
